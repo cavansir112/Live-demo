@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* demopanel */
+.demopanel{
+    height: 60px;
+    background-color: #243238;
+    display: flex;
+    align-items: center;
+}
+.text_link{
+    font-size: 14px;
+    color: #90caf9;
+    font-weight: bold;
+    text-decoration: none;
+}
+.text_link:hover{
+    color: #B2D3EF;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.text_link:hover i{
+    color: #B2D3EF;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.text_link i{
+    font-size: 14px;
+    color: #90caf9;
+    align-self: center;
+}
+.demopanel_wrap{
+    display: flex;
+    align-items: center;
+}
+.open_icon i{
+    font-size: 12px;
+    color: #b0bec5;
+}
+.open_icon i:hover{
+    color:#2196f3;
+    transition: 0.3s;
+}
+.mobil_icon i{
+    font-size: 20px;
+    color:#b0bec5;
+
+}
+.mobil_icon i:hover{
+    color:#2196f3;
+    transition: 0.3s;
+}
+.icon_desktop{
+    font-size: 20px;
+    color:whitesmoke;
+}
+.icon_desktop:hover{
+    color:#2196f3;
+    transition: 0.3s;
+}
+.added_cart{
+    padding: 9px 50px;
+    background-color: #f4511e;
+    color:aliceblue;
+    border-radius: 4px;
+    margin: 0px 20px;
+    font-size: 13px;
+    text-decoration: none;
+}
+.added_cart:hover{
+    background-color: #CE3D11;
+    text-decoration: none;
+    color: aliceblue;
+    transition: 0.3s;
+}
+.added_cart i{
+    color:aliceblue;
+    font-size: 17px;
+    margin-right: 10px;
+}
+.start_chat{
+    padding: 8px 60px;
+    border: 1px solid aliceblue;
+    color:#b0bec5;
+    border-radius: 4px;
+    font-size: 13px;
+    text-decoration: none
+}
+.start_chat:hover{
+    background-color: aliceblue;
+    color: black;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.start_chat i{
+    font-size: 19px;
+    margin-right: 10px;
+    color:#b0bec5;
+}
+.start_chat:hover i{
+    color: black;
+    transition: 0.5s;
+}
+.buy_button{
+    font-size: 17px;
+    margin-left: 30px;
+    font-weight: bold;
+    color: #76d48f;
+}
+.buy_button:hover{
+    color: #2196f3;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.angle{
+    font-size: 17px;
+    margin-left: 10px;
+    color: #b0bec5;
+}
+.buy_button:hover .angle{
+    color: #2196f3;
+    transition: 0.3s;
+}
+.services{
+    color:#b0bec5;
+    font-size: 15px;
+    margin-left: 40px;
+}
+.services:hover{
+    color: #2196f3;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.angle1{
+    font-size: 17px;
+    margin-left: 10px;
+    color: #b0bec5;
+}
+.services:hover .angle1{
+    color: #2196f3;
+    transition: 0.3s;
+}
+.heart{
+    font-size: 19px;
+    margin-left: 60px;
+    color: #b0bec5;
+}
+.heart:hover{
+    color: #2196f3;
+    transition: 0.3s;
+}
+.angle3{
+    margin-left: 30px;
+    font-size: 19px;
+    color: #b0bec5;
+}
+.angle3:hover{
+    color: #2196f3;
+    transition: 0.3s;
+}
+/* //.demopanel */
